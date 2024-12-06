@@ -19,13 +19,14 @@ gem 'jbuilder', '~> 2.8'
 
 # HAML templating
 gem 'haml-rails'
-
+# gem 'nokogiri' , '~> 1.13.10' 
+# gem 'net-imap' , '~> 0.2.2' 
 # GDS Frontend Toolkit, templates and elements
 gem 'govuk_elements_form_builder', git: 'https://github.com/ministryofjustice/govuk_elements_form_builder.git'
 gem 'govuk_elements_rails'
 gem 'govuk_frontend_toolkit'
 gem 'govuk_template'
-gem 'govuk-registers-api-client', '~> 2.0.0'
+gem 'govuk-registers-api-client', git: 'https://github.com/TPZDSP3/govuk-registers-api-client.git'
 
 gem 'autoprefixer-rails'
 
