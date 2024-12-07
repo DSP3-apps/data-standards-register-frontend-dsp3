@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/TPZDSP3/govuk-registers-api-client.git
-  revision: 81d2a2bd014085a516eb856b69fc4638151df622
+  revision: 5ded612ede3023e2da6f68b5f56cd6555e8d7ab2
   specs:
     govuk-registers-api-client (2.0.0)
       rest-client (~> 2)
